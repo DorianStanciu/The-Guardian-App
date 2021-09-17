@@ -1,0 +1,76 @@
+.singleArticle {
+  min-height: 100vh;
+  width: 80%;
+  margin: 0 auto;
+  margin-bottom: 10vh;
+}
+
+.articleHeader {
+  display: flex;
+  justify-content: space-between;
+}
+
+.articleHeader h4 {
+  font-size: 26px;
+  padding-top: 50px;
+  color: red;
+  font-weight: bold;
+}
+
+.articleHeader h2 {
+  font-size: 30px;
+  padding-top: 15px;
+}
+
+.articleHeader p {
+  font-size: 18px;
+  padding-top: 15px;
+}
+
+.articleHeader div {
+  margin-top: 10vh;
+  height: 400px;
+  width: 50%;
+}
+
+.articleHeaderLeft img {
+  height: 100%;
+  width: 100%;
+}
+
+.articleContent p {
+  font-size: 20px;
+  line-height: 30px;
+  padding-top: 5vh;
+}
+
+.articleHeaderRight {
+  padding-left: 5%;
+}
+
+@media screen and (max-width: 1200px) {
+  .singleArticle {
+    width: 96%;
+  }
+}
+
+@media screen and (max-width: 1000px) {
+  .articleHeader {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+  }
+  .articleHeaderLeft,
+  .articleHeader div {
+    width: 80%;
+    margin: 0 auto;
+    height: auto;
+  }
+  .articleHeaderRight {
+    height: 200px;
+  }
+  .article .articleHeaderLeft img {
+    width: 100%;
+    margin: 0 auto;
+  }
+}
