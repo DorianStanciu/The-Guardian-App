@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3032feef.chunk.css",
+    "main.js": "/static/js/main.c8712319.chunk.js",
+    "main.js.map": "/static/js/main.c8712319.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.8c9d762c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.8c9d762c.js.map",
+    "static/js/2.4cf6162d.chunk.js": "/static/js/2.4cf6162d.chunk.js",
+    "static/js/2.4cf6162d.chunk.js.map": "/static/js/2.4cf6162d.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.3032feef.chunk.css.map": "/static/css/main.3032feef.chunk.css.map",
+    "static/js/2.4cf6162d.chunk.js.LICENSE.txt": "/static/js/2.4cf6162d.chunk.js.LICENSE.txt",
+    "static/media/the-guardian-logo.b3462d49.jpg": "/static/media/the-guardian-logo.b3462d49.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8c9d762c.js",
+    "static/js/2.4cf6162d.chunk.js",
+    "static/css/main.3032feef.chunk.css",
+    "static/js/main.c8712319.chunk.js"
+  ]
+}
